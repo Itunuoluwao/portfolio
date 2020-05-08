@@ -14,7 +14,7 @@
 <body>
   <header>
     <div class="header">
-      <h2>Itunu Olurin</h2>
+     portfolio
     </div>
     <div class="menu-div">
       <a href="" class="toggle-button">
@@ -26,9 +26,9 @@
   </header>
   <nav class="links">
     <ul>
-      <li><a href="index.html">About</a></li>
+      <li><a href="index.php">About</a></li>
       <li><a href="#" class="underlined"></a></li>
-      <li><a href="contact.html">Contact</a></li>
+      <li><a href="contact.php">Contact</a></li>
       <li><a href="https://drive.google.com/open?id=1NkCX1P3hBxOKpQAbtmeL36dk7PjEVVMd">Download Resume</a></li>
     </ul>
   </nav>
