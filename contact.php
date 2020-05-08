@@ -14,7 +14,7 @@
 <body>
   <header>
     <div class="header">
-      <a href="index.html" style="text-decoration: none;"><h2>Itunu Olurin</h2></a>
+      <a href="index.php" style="text-decoration: none;"><h2>Itunu Olurin</h2></a>
     </div>
     <div class="menu-div">
       <a href="" class="toggle-button">
