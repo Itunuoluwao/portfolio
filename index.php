@@ -37,7 +37,7 @@
           <p>My current stack includes Reactjs,Javascript and Figma,</p>
           <p>i have built and deployed a few websites through Heroku & GitHub Pages.</p>
         </div>
-        <a class="button" href="work.html"><span>View my work</span></button></a>
+        <a class="button" href="work.php"><span>View my work</span></button></a>
       </div>
       </div>
     </div>
