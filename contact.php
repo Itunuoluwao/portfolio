@@ -27,7 +27,7 @@
 
   <nav class="links">
     <ul>
-      <li><a href="index.php">About</a></li>
+      <li><a href="work.php">Wor</a></li>
       <li><a href="https://drive.google.com/open?id=1NkCX1P3hBxOKpQAbtmeL36dk7PjEVVMd" target="_blank">Download Resume</a></li>
       <li><a href="#" class="underlined"></a></li>
     </ul>
